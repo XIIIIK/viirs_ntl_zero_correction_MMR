@@ -1,2 +1,11 @@
-# viirs_ntl_zero_correction_MMR
+# VIIRS NTL Zero Correction and Deseasonalization in Myanmar
+
+## 1. NTL zero correction
+
+
+
+
+
+
+## 2. Deseasonalize monthly NTL series
  
